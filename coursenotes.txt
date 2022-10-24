@@ -1,0 +1,10 @@
+Lesson 1: Intro and installning software we need for the course, intro to ainsible, playbooks and inventory.
+Installed virtualbox, VScodium and Vagrant. Configured as per instructions.
+Installed git bash and set up a repo for this course. Added Vagrantfile and Playbook.yml. 
+
+Challenges: tried to get it to work inside my exisisting ubuntu 22.04 box run in Hyper-V. Didn't manage to set it up properly, mainly due to time constraints with regards to debugging.
+
+Lesson 2: Ainsible playbooks
+
+
+Lesson 3: Ainsilbe cont.
